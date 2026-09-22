@@ -108,7 +108,7 @@ php artisan serve
 
 1. Register as customer
 2. Login → receive token
-3. Add your BMW to the system
+3. Add your Car to the system
 4. Create a service job for your car
 5. Assign an available mechanic
 6. Track job status: pending → in_progress → completed
